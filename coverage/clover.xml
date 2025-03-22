@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1742437246719" clover="3.2.0">
-  <project timestamp="1742437246719" name="All files">
-    <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="19" coveredelements="19" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+<coverage generated="1742611067881" clover="3.2.0">
+  <project timestamp="1742611067881" name="All files">
+    <metrics statements="32" coveredstatements="30" conditionals="10" coveredconditionals="5" methods="8" coveredmethods="8" elements="50" coveredelements="43" complexity="0" loc="32" ncloc="32" packages="1" files="1" classes="1"/>
     <file name="index.js" path="/home/archie/Desktop/Projects/testing-practice/index.js">
-      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <metrics statements="32" coveredstatements="30" conditionals="10" coveredconditionals="5" methods="8" coveredmethods="8"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
@@ -17,6 +17,25 @@
       <line num="23" count="1" type="stmt"/>
       <line num="27" count="1" type="stmt"/>
       <line num="31" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="41" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="21" type="stmt"/>
+      <line num="43" count="21" type="stmt"/>
+      <line num="44" count="21" type="stmt"/>
+      <line num="46" count="21" type="cond" truecount="1" falsecount="1"/>
+      <line num="47" count="21" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="52" count="21" type="stmt"/>
+      <line num="53" count="21" type="stmt"/>
+      <line num="55" count="3" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="21" type="stmt"/>
+      <line num="60" count="21" type="cond" truecount="2" falsecount="4"/>
+      <line num="61" count="21" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
     </file>
   </project>
 </coverage>

@@ -36,3 +36,11 @@ test("multiply 10 * 100 equals to 1000", () => {
 test('xyz with shift factor 3 equal to "abc"', () => {
   expect(caesarCipher("xyz", 3)).toBe("abc");
 });
+
+test('"HeLLo" with shift factor 3 equal to "KhOOr"', () => {
+  expect(caesarCipher("HeLLo", 3)).toBe("KhOOr");
+});
+
+test('"Hello, World!" with shift factor 3 equal to "Khoor, Zruog!"', () => {
+  expect(caesarCipher("Hello, World!", 3)).toBe("Khoor, Zruog!");
+});
